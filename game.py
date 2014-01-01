@@ -76,8 +76,8 @@ def terminate(bad=False):
 
 
 def main():
-    #echo(text.INTRO)
-    #echo(text.FIRST_NOISE)
+    echo(text.INTRO)
+    echo(text.FIRST_NOISE)
     while not END:
         next_step()
 
